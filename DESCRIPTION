@@ -1,0 +1,9 @@
+Package: mytoolkit
+Type: Package
+Title: Personal Helper Functions
+Version: 0.1.0
+Authors@R: person("Ricardo", "Figueiredo", role = c("aut", "cre"), email = "your.email@example.com")
+Description: A small collection of reusable helper functions: a nicer histogram
+    and a "cheat sheet" function with short R notes.
+License: GPL-3
+Encoding: UTF-8
